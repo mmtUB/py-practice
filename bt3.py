@@ -3,6 +3,7 @@ import pandas as pd
 df = pd.read_csv("test.csv")
 df["Hostname"] = df["Hostname"].astype(str).str.strip()
 
+
 #filtered duplicated checks
 condition_dup = df.duplicated(subset=["Hostname"], keep=False)
 
