@@ -1,0 +1,166 @@
+Check ID,Created (UTC),Name,Hostname,Tags,Type,Verify Certificate,Status,Last Check Time (UTC),CNAME,A,NS
+718337,2012-12-18 12:46:48,world.episerver.com,world.episerver.com,[],http,1.0,up,2025-05-05 08:33:16,world.episerver.com.dxcloud.episerver.net.,104.18.37.238;172.64.150.18,
+719227,2012-12-19 07:43:58,www.cassandraoil.com,www.cassandraoil.com,"[""ws46""]",http,,up,2025-05-05 08:33:11,,217.114.90.146,
+719234,2012-12-19 07:47:04,www.lrfkonsult.se,www.lrfkonsult.se,[],http,,up,2025-05-05 08:33:28,lrfkonsult.wpengine.com.,35.233.51.106,
+719433,2012-12-19 12:24:50,www.sodertaljesjukhus.se,www.sodertaljesjukhus.se,"[""everweb""]",http,1.0,paused,2025-04-16 09:13:57,www.sodertaljesjukhus.se.dxcloud.episerver.net.,104.18.43.238;172.64.144.18,austin.ns.cloudflare.com.;desi.ns.cloudflare.com.
+719475,2012-12-19 13:22:11,www.srfstockholmgotland.se,www.srfstockholmgotland.se,[],http,,up,2025-05-05 08:33:44,,217.114.90.144,
+742251,2013-01-21 14:32:34,www.riksbank.se,www.riksbank.se,[],http,1.0,up,2025-05-05 08:33:44,www.riksbank.se.dxcloud.episerver.net.,104.18.35.36;172.64.152.220,
+771201,2013-02-25 10:38:57,www.golf.se,www.golf.se,[],http,,up,2025-05-05 08:33:19,,217.114.93.199,
+774465,2013-02-28 16:29:57,www.sbu.se,www.sbu.se,"[""sbuweb03""]",http,,up,2025-05-05 08:33:44,www.sbu.se.dxcloud.episerver.net.,104.18.35.45;172.64.152.211,austin.ns.cloudflare.com.;desi.ns.cloudflare.com.
+12470394,2023-08-22 13:58:50,www.regionfakta.com,www.regionfakta.com,[],http,1.0,up,2025-05-05 08:33:15,,217.114.92.203,
+838450,2013-05-07 15:17:17,www.poolia.se,www.poolia.se,[],http,,up,2025-05-05 08:33:09,,162.159.134.42,
+838477,2013-05-07 15:37:33,www.karlstadsenergi.se,www.karlstadsenergi.se,[],http,,up,2025-05-05 08:33:12,,185.84.52.52,
+10879054,2022-02-28 09:34:35,www.sodersjukhuset.se,www.sodersjukhuset.se,"[""sodersweb01""]",http,1.0,up,2025-05-05 08:33:26,www.sodersjukhuset.se.dxcloud.episerver.net.,104.18.43.238;172.64.144.18,austin.ns.cloudflare.com.;desi.ns.cloudflare.com.
+5310678,2019-06-30 13:15:36,www.forskningsparken.no,www.forskningsparken.no,"[""ws53""]",http,1.0,up,2025-05-05 08:33:43,cname.vercel-dns.com.,76.76.21.61;76.76.21.123,
+839113,2013-05-08 06:54:00,www.salem.se,www.salem.se,[],http,,up,2025-05-05 08:33:57,,185.84.52.254,
+10915458,2022-03-07 06:55:22,www.gda.se,www.gda.se,[],http,1.0,up,2025-05-05 08:33:00,www.gda.se.dxcloud.episerver.net.,172.64.145.235;104.18.42.21,meera.ns.cloudflare.com.;felicity.ns.cloudflare.com.
+839140,2013-05-08 06:54:20,www.stat-inst.se,www.stat-inst.se,[],http,,up,2025-05-05 08:33:22,,217.114.85.159,
+839148,2013-05-08 06:54:24,www.konsumenternas.se,www.konsumenternas.se,[],http,,up,2025-05-05 08:33:44,,217.114.85.218,
+839153,2013-05-08 06:54:26,www.capio.se,www.capio.se,"[""everweb"",""capio""]",http,1.0,up,2025-05-05 08:33:41,www.capio.se.dxcloud.episerver.net.,104.18.36.231;172.64.151.25,felicity.ns.cloudflare.com.;meera.ns.cloudflare.com.
+839170,2013-05-08 06:54:33,www.srf.nu,www.srf.nu,[],http,1.0,up,2025-05-05 08:33:49,,79.142.242.137,
+839184,2013-05-08 06:54:39,www.me.se,www.me.se,"[""epwsweb101""]",http,,up,2025-05-05 08:33:03,,217.114.92.200,
+839185,2013-05-08 06:54:40,www.sogeti.fi,www.sogeti.fi,[],http,1.0,paused,2025-01-23 11:05:13,,192.0.66.24,
+839216,2013-05-08 06:54:53,www.stoten.se,www.stoten.se,[],http,,up,2025-05-05 08:33:43,,217.114.90.155,
+839222,2013-05-08 06:54:56,www.klappen.se,www.klappen.se,"[""epwsweb102""]",http,1.0,up,2025-05-05 08:33:17,,52.157.158.235,
+839240,2013-05-08 06:55:08,www.cloetta.se,www.cloetta.se,"[""cfweb02""]",http,,up,2025-05-05 08:33:31,,18.238.217.74;18.238.217.11;18.238.217.85;18.238.217.66,ns-1799.awsdns-32.co.uk.;ns-352.awsdns-44.com.;ns-1041.awsdns-02.org.;ns-959.awsdns-55.net.
+839266,2013-05-08 06:55:31,www.aptit.se,www.aptit.se,[],http,1.0,up,2025-05-05 08:33:00,,217.114.85.38,
+839300,2013-05-08 06:55:46,www.traguiden.se,www.traguiden.se,[],http,,up,2025-05-05 08:33:36,traguiden.se.,217.114.93.149,dns03.ports.se.;dns01.dipcon.com.;dns02.ports.se.;dns04.ports.net.
+839302,2013-05-08 06:55:47,www.siteseeker.se,www.siteseeker.se,"[""everweb"",""ws46""]",http,,up,2025-05-05 08:32:56,siteseeker.se.,217.114.90.145,ns-1668.awsdns-16.co.uk.;ns-337.awsdns-42.com.;ns-898.awsdns-48.net.;ns-1057.awsdns-04.org.
+839321,2013-05-08 06:55:55,www.humlegarden.se,www.humlegarden.se,[],http,,up,2025-05-05 08:33:20,humlegarden.se.,217.114.92.204,ns1-08.azure-dns.com.;ns4-08.azure-dns.info.;ns3-08.azure-dns.org.;ns2-08.azure-dns.net.
+839322,2013-05-08 06:55:56,www.kil.se,www.kil.se,"[""epwsweb103""]",http,1.0,up,2025-05-05 08:33:42,,185.84.52.245,
+839331,2013-05-08 06:55:59,www.formpipe.com,www.formpipe.com,"[""epwsweb103""]",http,1.0,up,2025-05-05 08:33:13,,217.114.92.204,
+839346,2013-05-08 06:56:17,www.sogeti.dk,www.sogeti.dk,[],http,1.0,up,2025-05-05 08:33:33,,192.0.66.2,
+839357,2013-05-08 06:56:24,www.tamro.se,www.tamro.se,"[""epwsweb101""]",http,,up,2025-05-05 08:33:30,cname.vercel-dns.com.,76.76.21.93;66.33.60.130,
+839358,2013-05-08 06:56:24,www.fondbolagen.se,www.fondbolagen.se,"[""epwsweb103""]",http,1.0,up,2025-05-05 08:33:27,,79.142.242.150,
+839373,2013-05-08 06:56:31,www.barndiabetesfonden.se,www.barndiabetesfonden.se,"[""epwsweb103""]",http,1.0,up,2025-05-05 08:33:41,,217.114.92.202,
+1437975,2014-12-02 14:18:58,www.sbff.se,www.sbff.se,"[""epwsweb102""]",http,1.0,up,2025-05-05 08:33:01,,217.114.92.204,
+839452,2013-05-08 06:57:10,www.scr.se,www.scr.se,[],http,,up,2025-05-05 08:33:16,,176.10.139.207,
+839470,2013-05-08 06:57:26,www.sogeti.no,www.sogeti.no,[],http,1.0,paused,2025-02-03 00:39:34,sogeti.no.,192.0.66.24,nova.ns.cloudflare.com.;stanley.ns.cloudflare.com.
+839496,2013-05-08 06:57:40,www.sogeti.com,www.sogeti.com,[],http,1.0,up,2025-05-05 08:33:01,sogeti.com.,192.0.66.24,dns1.p01.nsone.net.;dns3.p01.nsone.net.;dns4.p01.nsone.net.;dns2.p01.nsone.net.
+839538,2013-05-08 06:58:00,www.ansa.no,www.ansa.no,[],http,1.0,up,2025-05-05 08:33:31,ansa.no.,68.183.243.187,ns01.no.brand.one.com.;ns02.no.brand.one.com.
+1038101,2013-11-25 09:00:40,www.krisinformation.se,www.krisinformation.se,[],http,1.0,up,2025-05-05 08:33:47,krisinformation.se.edgekey.net.,118.69.16.221;118.69.16.213,
+1043176,2013-11-29 08:32:18,www.collyflowtech.se,www.collyflowtech.se,[],http,,up,2025-05-05 08:33:34,,162.159.135.42,
+1048481,2013-12-04 09:50:49,www.diakonia.se,www.diakonia.se,[],http,,paused,2024-09-12 01:00:52,cname.vercel-dns.com.,76.76.21.123;66.33.60.193,
+1061530,2013-12-17 13:12:05,www.langhamhotels.com,www.langhamhotels.com,[],http,,paused,2025-03-24 13:38:28,ccdn.langham.edgekey.net.,23.202.89.89;23.202.89.97,
+1062152,2013-12-17 20:36:14,www.dios.se,www.dios.se,[],http,1.0,up,2025-05-05 08:33:32,,217.68.41.121,
+1100661,2014-01-30 03:57:58,www.sverigetarmatchen.se,www.sverigetarmatchen.se,[],http,,paused,2024-09-07 01:53:02,,217.114.93.12,
+2158378,2016-05-24 10:14:41,www.metalliskamaterial.se,www.metalliskamaterial.se,"[""epwsweb103""]",http,,up,2025-05-05 08:33:38,,217.114.92.202,
+1100705,2014-01-30 05:26:06,www.bostadsbolaget.vastervik.se,www.bostadsbolaget.vastervik.se,[],http,1.0,up,2025-05-05 08:33:10,,217.114.80.178,
+1110725,2014-02-07 09:05:46,www.introduce.se,www.introduce.se,[],http,1.0,up,2025-05-05 08:33:20,,217.114.87.170,
+1172837,2014-03-31 23:42:26,www.ieo.it,www.ieo.it,"[""everweb"",""ieo"",""ieoweb01"",""ieoweb02""]",http,,up,2025-05-05 08:33:23,www.ieo.it.cdn.cloudflare.net.,104.18.23.178;104.18.22.178,
+1442036,2014-12-05 10:11:37,www.saarioinen.fi,www.saarioinen.fi,[],http,,up,2025-05-05 08:33:02,,217.114.93.109,
+1442039,2014-12-05 10:14:31,www.lif.se,www.lif.se,[],http,,up,2025-05-05 08:33:51,,217.114.93.221,
+1442361,2014-12-05 15:33:16,www.edschats.com,www.edschats.com,[],http,,up,2025-05-05 08:33:01,,217.114.93.150,
+1442382,2014-12-05 15:49:21,www.folkbildning.net,www.folkbildning.net,"[""rioweb01""]",http,,paused,2024-07-17 11:37:13,,104.21.2.27;172.67.128.158,
+6210862,2020-06-18 07:32:05,www.giftinformation.se,www.giftinformation.se,[],http,1.0,up,2025-05-05 08:33:38,,217.114.93.133,
+1551738,2015-03-27 15:07:18,nuget.episerver.com,nuget.episerver.com,[],http,,up,2025-05-05 08:33:51,,217.114.85.46,
+1561793,2015-04-08 02:11:18,www.c4energi.se,www.c4energi.se,"[""epwsweb101""]",http,,paused,2025-01-24 14:57:25,,213.212.8.84,
+1583292,2015-04-29 04:25:01,www.byggvarubedomningen.se,www.byggvarubedomningen.se,[],http,1.0,paused,2024-09-11 22:10:26,app-bvbcms-prod-sdc.azurewebsites.net.,51.12.31.7,
+1588668,2015-05-05 08:14:39,bluebuffalo.com,bluebuffalo.com,"[""azurevm""]",http,,up,2025-05-05 08:33:46,,104.26.5.63;172.67.69.223;104.26.4.63,igor.ns.cloudflare.com.;gail.ns.cloudflare.com.
+1621447,2015-06-05 11:59:25,www.varma.fi,www.varma.fi,"[""varmaweb01""]",http,,up,2025-05-05 08:33:58,,217.114.93.174,
+1635549,2015-06-18 14:43:26,bbapi.bluebuffalo.com,bbapi.bluebuffalo.com,"[""azurevm""]",http,,up,2025-05-05 08:33:29,bluebuffalo.com.,172.183.165.210,igor.ns.cloudflare.com.;gail.ns.cloudflare.com.
+1635553,2015-06-18 14:44:02,bbcdb.bluebuffalo.com,bbcdb.bluebuffalo.com,"[""azurevm""]",http,1.0,up,2025-05-05 08:32:58,bluebuffalo.com.,172.183.165.210,igor.ns.cloudflare.com.;gail.ns.cloudflare.com.
+1642711,2015-06-25 12:05:57,www.audifinans.no,www.audifinans.no,"[""volkswagenweb01""]",http,,paused,2024-03-08 12:12:57,,217.114.93.203,
+1642712,2015-06-25 12:07:00,www.skodafinans.no,www.skodafinans.no,[],http,,paused,2024-03-08 12:13:43,,217.114.93.203,
+1642717,2015-06-25 12:08:29,www.volkswagenfinans.no,www.volkswagenfinans.no,"[""volkswagenweb01""]",http,,paused,2024-03-08 12:13:04,,217.114.93.203,
+1730458,2015-08-17 02:41:45,www.sogeti.ie,www.sogeti.ie,[],http,1.0,paused,2024-12-11 08:38:50,sogeti.ie.,192.0.66.24,stanley.ns.cloudflare.com.;nova.ns.cloudflare.com.
+1768434,2015-09-01 20:55:01,medlem.lif.se,medlem.lif.se,[],http,,up,2025-05-05 08:33:12,,217.114.93.221,
+1779326,2015-09-07 01:31:58,veho.fi,veho.fi,[],http,,up,2025-05-05 08:33:17,,34.120.197.65,ns-se.elisa.net.;ns-fi.elisa.net.
+1807561,2015-09-21 03:52:18,www.regiongavleborg.se,www.regiongavleborg.se,[],http,,up,2025-05-05 08:33:30,,217.114.93.252,
+1847294,2015-10-20 00:51:47,www.verticalscreen.com,www.verticalscreen.com,[],http,1.0,up,2025-05-05 08:33:15,,104.18.10.242;104.18.11.242,
+1847297,2015-10-20 00:56:12,www.bigreport.com,www.bigreport.com,[],http,,up,2025-05-05 08:33:17,,104.18.16.159;104.18.17.159,
+1847335,2015-10-20 02:00:09,www.fieldprint.com,www.fieldprint.com,[],http,1.0,up,2025-05-05 08:33:20,,104.18.12.18;104.18.13.18,
+1849080,2015-10-21 04:05:44,www.certiphi.com,www.certiphi.com,[],http,,up,2025-05-05 08:33:26,,104.18.2.25;104.18.3.25,
+1928884,2015-12-28 04:47:43,www.newschool.edu,www.newschool.edu,[],http,1.0,up,2025-05-05 08:33:43,www.newschool.edu.cdn.cloudflare.net.,104.18.37.7;172.64.150.249,
+1955885,2016-01-19 09:31:02,www.cordishotels.com,www.cordishotels.com,[],http,,paused,2025-03-24 13:38:32,ccdn.langham.edgekey.net.,23.202.89.89;23.202.89.97,
+1957146,2016-01-19 20:21:58,ZD1270862 folktandvardenskane.se,folktandvardenskane.se,[],http,1.0,paused,2023-11-01 13:32:18,,37.123.185.200,ephemera.nmugroup.se.;unit.nmugroup.com.;origo.nmugroup.com.;vertex.nmugroup.se.
+9733265,2021-11-02 04:24:45,www.mpn10.no,www.mpn10.no,[],http,1.0,paused,2025-03-13 13:27:07,www.mpn10.no.cdn.cloudflare.net.,172.64.152.185;104.18.35.71,
+2007332,2016-02-17 11:33:22,www.hjart-lung.se,www.hjart-lung.se,"[""epwsweb102""]",http,1.0,up,2025-05-05 08:33:15,prod.hjart-lung10.episerverhosting.com.,217.114.92.201,
+2048680,2016-03-14 09:44:40,www.snusochtandsticksmuseum.se,www.snusochtandsticksmuseum.se,"[""swematchweb03""]",http,,up,2025-05-05 08:33:21,www.snusochtandsticksmuseum.se.dxcloud.episerver.net.,104.18.37.199;172.64.150.57,
+2087183,2016-04-08 14:38:49,www.ecster.se,www.ecster.se,"[""everweb"",""hbfweb01"",""hbfweb02""]",http,,paused,2025-02-21 12:11:53,link01.handelsbanken.se.,192.176.124.131,
+2090083,2016-04-11 13:44:29,zd1586668 - www.sogeti.be,www.sogeti.be,[],http,1.0,paused,2024-12-05 08:52:39,sogeti.be.,192.0.66.24,dns2.p01.nsone.net.;dns3.p01.nsone.net.;dns4.p01.nsone.net.;dns1.p01.nsone.net.
+2090099,2016-04-11 13:49:24,www.sogeti.de,www.sogeti.de,[],http,1.0,paused,2025-01-27 09:50:08,sogeti.de.,192.0.66.24,nova.ns.cloudflare.com.;stanley.ns.cloudflare.com.
+2090100,2016-04-11 13:50:34,zd1624746 - www.sogeti.es,www.sogeti.es,[],http,1.0,paused,2025-01-21 09:42:06,sogeti.es.,192.0.66.24,dns3.p03.nsone.net.;dns1.p03.nsone.net.;dns4.p03.nsone.net.;dns2.p03.nsone.net.
+2090103,2016-04-11 13:52:22,www.sogeti.lu,www.sogeti.lu,[],http,1.0,paused,2024-12-11 08:56:16,sogeti.lu.,192.0.66.24,dns4.p01.nsone.net.;dns1.p01.nsone.net.;dns2.p01.nsone.net.;dns3.p01.nsone.net.
+2123420,2016-04-29 19:36:42,www.hfab.se,www.hfab.se,[],http,,up,2025-05-05 08:33:45,,193.192.54.162,
+2136355,2016-05-09 18:23:01,www.swep.net,www.swep.net,[],http,,up,2025-05-05 08:32:58,web.swep.net.,217.114.93.251,
+2156489,2016-05-23 09:43:39,www.ul.se,www.ul.se,[],http,,up,2025-05-05 08:33:41,,217.114.85.171,
+2156725,2016-05-23 11:44:10,www.kappala.se,www.kappala.se,[],http,1.0,up,2025-05-05 08:33:57,,217.114.92.200,
+2156726,2016-05-23 11:45:12,www.norrvatten.se,www.norrvatten.se,"[""epwsweb102""]",http,1.0,up,2025-05-05 08:33:39,,217.114.92.201,
+2156827,2016-05-23 12:56:42,www.capio.com,www.capio.com,"[""everweb"",""capio""]",http,1.0,up,2025-05-05 08:33:48,,193.14.90.203,
+2158287,2016-05-24 09:33:10,www.nefab.com,www.nefab.com,[],http,1.0,paused,2025-04-12 01:40:15,,104.17.201.193,
+2158336,2016-05-24 09:44:33,www.kronfagel.se,www.kronfagel.se,[],http,,up,2025-05-05 08:33:25,d12nrjfx5h3w6k.cloudfront.net.,54.192.18.51;54.192.18.58;54.192.18.47;54.192.18.56,ns-1479.awsdns-56.org.;ns-638.awsdns-15.net.;ns-1736.awsdns-25.co.uk.;ns-174.awsdns-21.com.
+2213491,2016-07-03 16:09:18,zd1652827-www.oslotech.no,www.oslotech.no,"[""ws53""]",http,,paused,2025-03-03 01:38:10,,194.63.248.52,
+2269693,2016-08-18 07:10:02,Episerver Cloud API / License API,cloud-api.episerver.com,"[""cloudapi""]",http,,up,2025-05-05 08:33:00,,217.114.93.53,
+2332616,2016-10-12 15:14:41,www.periodicfevers.com,www.periodicfevers.com,[],http,,paused,2024-12-09 11:41:27,www.periodicfevers.com.cdn.cloudflare.net.,172.64.154.69;104.18.33.187,
+2380446,2016-11-21 04:22:11,www.flinnsci.com,www.flinnsci.com,"[""flscprodwebs""]",http,,up,2025-05-05 08:33:14,www.flinnsci.com.cdn.cloudflare.net.,104.18.36.202;172.64.151.54,
+2380449,2016-11-21 04:25:53,www.flinnsci.ca,www.flinnsci.ca,"[""flscprodwebs""]",http,,up,2025-05-05 08:33:55,www.flinnsci.ca.cdn.cloudflare.net.,172.64.148.186;104.18.39.70,
+2389313,2016-11-23 21:25:16,www.aranas.se,www.aranas.se,[],http,,up,2025-05-05 08:33:51,aranas.se.,217.114.90.151,ns1.ilait.se.;ns3.ilait.se.;ns2.ilait.se.;ns4.ilait.se.
+2472894,2017-01-23 11:25:53,www.flamestudy.dk,www.flamestudy.dk,[],http,,up,2025-05-05 08:33:49,www.flamestudy.dk.cdn.cloudflare.net.,104.18.42.45;172.64.145.211,
+2472895,2017-01-23 11:25:53,www.flame-study.dk,www.flame-study.dk,[],http,,up,2025-05-05 08:33:43,www.flame-study.dk.cdn.cloudflare.net.,172.64.147.75;104.18.40.181,
+2498089,2017-01-30 15:23:53,www.sandstruck.com,www.sandstruck.com,[],http,,up,2025-05-05 08:32:56,,75.2.100.220,
+2556285,2017-02-22 15:07:26,www.hbv.se,www.hbv.se,[],http,1.0,up,2025-05-05 08:33:18,,95.216.145.33,
+2778928,2017-04-24 18:09:30,www.accessconsciousness.com,www.accessconsciousness.com,[],http,1.0,paused,2025-02-10 04:31:04,www.accessconsciousness.com.dxcloud.episerver.net.,104.18.35.200;172.64.152.56,desi.ns.cloudflare.com.;austin.ns.cloudflare.com.
+3169963,2017-07-05 15:04:15,bellman.com,bellman.com,"[""epwsweb104""]",http,,up,2025-05-05 08:33:28,,217.114.92.203,ns2.dnshost.net.;ns1.dnshost.net.
+3771976,2017-10-19 12:27:23,www.onspot.com,www.onspot.com,"[""vbgweb02""]",http,,up,2025-05-05 08:33:48,,217.114.93.150,
+1113145,2014-02-10 11:57:40,www.sunne.se,sunne.se,[],http,,up,2025-05-05 08:33:34,,217.114.94.2,vertex.nmugroup.se.;ns-any3.nmugroup.com.;origo.nmugroup.com.;ns-any1.nmugroup.se.;ns-any2.nmugroup.se.;unit.nmugroup.com.;ephemera.nmugroup.se.
+4173177,2018-01-03 18:33:58,Episerver Zendesk Help Center,episerver.zendesk.com,[],http,,up,2025-05-05 08:33:26,,216.198.53.6;216.198.54.6,
+4273590,2018-02-01 09:58:03,www.gentealtears.com,www.gentealtears.com,[],http,,up,2025-05-05 08:33:25,www.gentealtears.com.cdn.cloudflare.net.,104.19.154.37;104.19.155.37,
+4451886,2018-03-19 15:51:40,BerOps - www.broadmail.de,www.broadmail.de,[],http,,up,2025-05-05 08:33:44,,193.169.180.204,
+4455048,2018-03-20 10:18:25,BerOps - http - api.broadmail.de,api.broadmail.de,[],http,,up,2025-05-05 08:33:48,,193.169.180.190;193.169.180.191,
+4455051,2018-03-20 10:19:24,BerOps - mail.srv2.de,mail.srv2.de,[],smtp,,up,2025-05-05 08:33:37,,193.169.180.64,
+4455057,2018-03-20 10:21:50,BerOps - img.srv2.de (http),img.srv2.de,[],http,,up,2025-05-05 08:33:32,,185.210.80.8;193.169.180.144;185.210.80.7;193.169.181.2,
+4455069,2018-03-20 10:24:29,BerOps - ftpapi.broadmail.de (ssh),ftpapi.broadmail.de,[],tcp,,up,2025-05-05 08:33:32,,193.169.180.253,
+4455087,2018-03-20 10:28:17,optivo - b.ns.optivo.de,b.ns.optivo.de,[],tcp,,paused,2023-01-12 23:02:41,,193.169.181.254,
+4486857,2018-03-29 12:15:33,www.alpidus.se,www.alpidus.se,"[""everweb"",""ws54""]",http,,up,2025-05-05 08:33:23,alpidus.se.,217.114.90.154,ns1-05.azure-dns.com.;ns4-05.azure-dns.info.;ns2-05.azure-dns.net.;ns3-05.azure-dns.org.
+4531524,2018-04-12 07:58:46,www.sernekebostad.se,www.sernekebostad.se,[],http,1.0,up,2025-05-05 08:33:16,,193.14.90.203,
+4531542,2018-04-12 08:04:35,www.kfstockholm.se _ZD 1598173,www.kfstockholm.se,"[""epwsweb102""]",http,1.0,paused,2024-12-19 03:24:51,kfstockholm.se.,91.201.60.53,dns3.oderland.com.;dns1.oderland.com.;dns2.oderland.com.
+4531584,2018-04-12 08:17:14,vas.lkab.com,vas.lkab.com,[],http,,up,2025-05-05 08:33:42,,217.114.92.49,
+4619973,2018-05-11 14:38:30,ww2.newschool.edu,ww2.newschool.edu,[],http,,up,2025-05-05 08:33:15,ww2.newschool.edu.cdn.cloudflare.net.,172.64.150.249;104.18.37.7,
+10552924,2022-01-20 22:42:05,www.canadachemventory.ca,www.canadachemventory.ca,[],http,1.0,up,2025-05-05 08:33:17,canadachemventory.ca.cdn.cloudflare.net.,104.18.38.128;172.64.149.128,
+9550122,2021-10-13 19:19:16,www.flinnprep.com,www.flinnprep.com,[],http,1.0,up,2025-05-05 08:33:00,www.flinnprep.com.cdn.cloudflare.net.,104.18.43.245;172.64.144.11,
+4684959,2018-06-21 14:46:34,BerOps - srv2.de (https),srv2.de,[],http,,up,2025-05-05 08:33:55,,193.169.180.193,a.ns.optivo.de.;b.ns.optivo.de.
+4684963,2018-06-21 14:48:16,BerOps - mail.broadmail.de,mail.broadmail.de,[],smtp,,up,2025-05-05 08:33:26,,193.169.180.188,
+4775376,2018-09-20 02:58:55,www.tobiidynavox.com,www.tobiidynavox.com,[],http,1.0,paused,2024-09-02 19:48:15,shops.myshopify.com.,23.227.38.74,
+4775871,2018-09-20 11:35:52,api.krisinformation.se,api.krisinformation.se,[],http,1.0,up,2025-05-05 08:33:33,krisinformation.se.edgekey.net.,118.69.16.213;118.69.16.221,
+4777291,2018-09-21 11:45:29,www.life-time.se,www.life-time.se,[],http,1.0,up,2025-05-05 08:33:42,life-time.se.,217.114.93.221,b.portsdns.net.;a.portsdns.se.
+4779132,2018-09-24 10:17:34,www.us.sogeti.com,www.us.sogeti.com,[],http,1.0,paused,2024-12-11 09:40:52,us.sogeti.com.,192.0.66.24,dns2.p01.nsone.net.;dns1.p01.nsone.net.;dns3.p01.nsone.net.;dns4.p01.nsone.net.
+5262549,2019-06-03 15:15:42,www.jakavi-patient.se,www.jakavi-patient.se,[],http,1.0,paused,2025-02-12 05:12:49,www.jakavi-patient.se.cdn.cloudflare.net.,104.18.32.78;172.64.155.178,
+5262551,2019-06-03 15:15:51,www.ketonalactive.pl,www.ketonalactive.pl,[],http,1.0,paused,2025-04-21 04:48:42,www.ketonalactive.pl.cdn.cloudflare.net.,172.64.155.189;104.18.32.67,
+5511413,2019-10-21 20:06:26,Episerver Litmos,episerver.litmos.com,[],http,1.0,up,2025-05-05 08:33:27,app.litmos.com.,20.120.107.42,
+5564712,2019-11-08 13:02:35,rockshop.rockwool.ru,rockshop.rockwool.ru,[],http,1.0,up,2025-05-05 08:33:54,,217.114.85.48,
+5564730,2019-11-08 13:05:43,rockshop.rockwool.ee,rockshop.rockwool.ee,[],http,1.0,up,2025-05-05 08:33:32,,217.114.85.48,
+5564734,2019-11-08 13:06:54,rockshop.rockwool.hu,rockshop.rockwool.hu,[],http,1.0,up,2025-05-05 08:33:37,,217.114.85.48,
+5564735,2019-11-08 13:07:40,rockshop.rockwool.lt,rockshop.rockwool.lt,[],http,1.0,up,2025-05-05 08:33:15,,217.114.85.48,
+5564737,2019-11-08 13:08:07,rockshop.rockwool.kz,rockshop.rockwool.kz,[],http,1.0,up,2025-05-05 08:33:51,,217.114.85.48,
+5564739,2019-11-08 13:08:32,rockshop.rockwool.by,rockshop.rockwool.by,[],http,1.0,up,2025-05-05 08:33:52,,217.114.85.48,
+5564740,2019-11-08 13:08:58,rockshop.rockwool.sk,rockshop.rockwool.sk,[],http,1.0,up,2025-05-05 08:32:59,,217.114.85.48,
+5564743,2019-11-08 13:09:41,rockshop.rockwool.cz,rockshop.rockwool.cz,[],http,1.0,up,2025-05-05 08:33:29,,217.114.85.48,
+5564753,2019-11-08 13:10:44,rockshop.rockwool.pl,rockshop.rockwool.pl,[],http,1.0,up,2025-05-05 08:33:20,,217.114.85.48,
+5564760,2019-11-08 13:14:05,rockshop.rockwool.ua,rockshop.rockwool.ua,[],http,1.0,up,2025-05-05 08:33:25,,217.114.85.48,
+5564763,2019-11-08 13:14:35,rockshop.rockwool.lv,rockshop.rockwool.lv,[],http,1.0,up,2025-05-05 08:33:23,,217.114.85.48,
+6786852,2020-10-10 17:19:54,www.gipeco.se,www.gipeco.se,"[""systeamweb01vm""]",http,,up,2025-05-05 08:33:07,gipeco.se.,217.114.93.56,dns1.oderland.com.;dns2.oderland.com.;dns3.oderland.com.
+7488814,2021-01-24 10:26:20,patient.fasenra.dk,patient.fasenra.dk,[],http,1.0,up,2025-05-05 08:34:03,,217.114.94.2,
+8045802,2021-04-22 12:06:34,BerOps - cg.cdn.optimtx.com (big_cg) (http),cg.cdn.optimtx.com,[],http,1.0,up,2025-05-05 08:33:36,,185.210.81.250,
+8046302,2021-04-22 13:42:06,BerOps - smtpapi2 SMTP,smtpapi2.campaign.episerver.net,[],smtp,,up,2025-05-05 08:33:47,,193.169.180.32,
+9549670,2021-10-13 18:16:57,chemventory.flinnsci.com,chemventory.flinnsci.com,[],http,1.0,up,2025-05-05 08:33:14,chemventory.flinnsci.com.cdn.cloudflare.net.,172.64.151.54;104.18.36.202,
+9549700,2021-10-13 18:19:04,labsafety.flinnsci.com,labsafety.flinnsci.com,[],http,1.0,up,2025-05-05 08:33:38,labsafety.flinnsci.com.cdn.cloudflare.net.,172.64.151.54;104.18.36.202,
+9549719,2021-10-13 18:20:23,labsafety.flinnsci.ca,labsafety.flinnsci.ca,[],http,1.0,up,2025-05-05 08:33:35,labsafety.flinnsci.ca.cdn.cloudflare.net.,172.64.148.186;104.18.39.70,
+9550209,2021-10-13 19:33:30,www.flinn360science.com,www.flinn360science.com,[],http,1.0,up,2025-05-05 08:34:11,www.flinn360science.com.cdn.cloudflare.net.,104.18.35.132;172.64.152.124,
+9618672,2021-10-20 18:12:43,www.ecster.fi,www.ecster.fi,"[""everweb"",""hbfweb01"",""hbfweb02""]",http,,paused,2025-02-21 12:12:13,link01.handelsbanken.se.,192.176.124.131,
+9734374,2021-11-02 07:20:33,www.it.keepitpumping.com,www.it.keepitpumping.com,"[""everweb"",""novartis"",""noph""]",http,1.0,paused,2025-03-13 13:18:50,www.it.keepitpumping.com.cdn.cloudflare.net.,104.18.36.215;172.64.151.41,
+10264828,2021-12-23 23:59:56,ww3.newschool.edu,ww3.newschool.edu,[],http,1.0,up,2025-05-05 08:33:17,ww3.newschool.edu.cdn.cloudflare.net.,104.18.37.7;172.64.150.249,
+11131657,2022-04-06 09:25:34,BerOps - newsletter.metro-cc.ru (ADMIN-12420) (http),newsletter.metro-cc.ru,[],http,1.0,up,2025-05-05 08:33:41,,91.229.178.1,
+4903762,2018-11-26 03:27:28,www.vbg.eu,www.vbg.eu,"[""vbgweb02""]",http,1.0,up,2025-05-05 08:33:51,,217.114.93.150,
+12929099,2024-02-26 08:48:47,ns1 diaverum.com,diaverum.com,[],dns,,up,2025-05-05 08:33:55,,217.114.94.2,ns2.itgarden.se.;ns1.itgarden.se.;ns3.itgarden.se.
+12295446,2023-05-19 09:40:52,golf.se/for-spelaren/ || golf.se/for-spelaren/,golf.se,[],http,,up,2025-05-05 08:34:13,,217.114.93.199,dns02.ports.se.;dns04.ports.net.;dns01.dipcon.com.;dns03.ports.se.
+12309444,2023-05-26 11:34:23,www.atriatuottajat.fi,www.atriatuottajat.fi,[],http,1.0,up,2025-05-05 08:33:37,,217.114.85.196,
+12388314,2023-07-05 13:01:19,BerOps -  transfer.campaign.episerver.net (ssh),transfer.campaign.episerver.net,[],tcp,,up,2025-05-05 08:33:33,,193.169.180.249,
+12393479,2023-07-07 23:43:04,shop.bluecrestinc.com || dmts01mstr5cxi1prod,shop.bluecrestinc.com,[],http,1.0,up,2025-05-05 08:34:06,21660151.group1.sites.hubspot.net.,199.60.103.226;199.60.103.30,
+12768006,2023-10-25 03:39:01,www.avancesolo.be ||  molnlyckewp19lprod,www.avancesolo.be,[],http,1.0,up,2025-05-05 08:34:02,www.avancesolo.be.dxcloud.episerver.net.,104.18.38.15;172.64.149.241,
+12943471,2024-03-07 12:48:21,www.specialisttandlakarna.se,www.specialisttandlakarna.se,"[""everweb"",""capio""]",http,1.0,up,2025-05-05 08:34:27,www.specialisttandlakarna.se.dxcloud.episerver.net.,104.18.36.231;172.64.151.25,meera.ns.cloudflare.com.;felicity.ns.cloudflare.com.
+12945458,2024-03-08 13:03:49,www.byggvarubedomningen.com,www.byggvarubedomningen.com,[],http,1.0,paused,2024-10-10 13:21:57,app-bvbcms-prod-sdc.azurewebsites.net.,51.12.31.7,
+5821376,2020-02-24 10:11:58,www.martinserverarestaurangbutiker.se,www.martinserverarestaurangbutiker.se,[],http,1.0,up,2025-05-05 08:34:09,,4.223.226.207,
+13642758,2024-11-14 07:41:35,www.vbggroup.com,www.vbggroup.com,[],http,,up,2025-05-05 08:34:36,,185.157.223.250,
+13799851,2025-03-11 10:23:50,BerOps - mx02.optimtx.com,mx02.optimtx.com,[],smtp,,up,2025-05-05 08:34:12,,185.210.81.249,
+13799824,2025-03-11 10:12:06,BerOps - mx01.optimtx.com,mx01.optimtx.com,[],smtp,,up,2025-05-05 08:34:44,,185.210.81.248,

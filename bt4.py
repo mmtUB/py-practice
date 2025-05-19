@@ -16,16 +16,8 @@ dxp_checks = df[dxp_condition]
 b2b_condition = not_dxp["Tags"].str.contains("b2b", case=False, na=True)
 b2b_checks =  not_dxp[b2b_condition]
 
+
 #filter internal checks
-internal_checks = not_dxp[~b2b_condition] & not_dxp["Tags"] != "[]"
-
-everweb_checks = ~internal_checks
-
-
-b2b_checks.to_csv("b2b_checks.csv", index=False)
-internal_checks.to_csv("internal_checks.csv", index=False)
-dxp_checks.to_csv("dxp_checks.csv", index=False)
-everweb_checks.to_csv("everweb_checks.csv", index=False)
 
 
 
